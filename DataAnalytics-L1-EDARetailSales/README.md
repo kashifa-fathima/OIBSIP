@@ -11,6 +11,7 @@ To explore the retail sales dataset, identify patterns and trends, and generate 
 - NumPy
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
 ## Project Tasks
 - Data loading and inspection
