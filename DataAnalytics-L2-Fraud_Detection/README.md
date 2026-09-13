@@ -1,5 +1,3 @@
-L2 Task3
-
 # Fraud Detection
 
 ## 📌 Project Overview
